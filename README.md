@@ -1,5 +1,5 @@
 # Webpage-Image-Scrapper-
-The Python 3 Program is built to download all the images present on a Web-page 
+The Python 3 Program is built to Scrap and Store on a Directory on your Computer all the images present on a Web-page 
 
 ## Web Scraping with Python
 
