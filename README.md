@@ -9,7 +9,7 @@ There are a few libraries you will need, you can go to your command line and ins
     conda install lxml
     conda install bs4
     
-if you are not using the Anaconda Installation, you can use **pip install** instead of **conda install**, for example:
+if you are not using the Anaconda Installation, you can use **pip install** instead of **conda install** :
 
     pip install requests
     pip install lxml
